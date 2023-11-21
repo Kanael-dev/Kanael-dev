@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Power Platform, Automation with Power Automate, UiPath, AutoHotKey and Python**
 
-- 📫 How to reach me **kanael.dev@gmail.com**
+- 📫 How to reach me **kanael.dev@gmail.com** or **+55 (65) 9 9261-5420 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
