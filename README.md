@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Power Platform (Power Apps, Power BI, Power Automate, SharePoint) and Frontend developer React Native**
 
-- 🌱 I’m currently learning **Automation with UiPath, Python and C#**
+- 🌱 I’m currently learning **Automation with UiPath, Python, React Native and C#**
 
 - 💬 Ask me about **Power Platform, Automation with Power Automate, UiPath, AutoHotKey and Python**
 
-- 📫 How to reach me **kanael.dev@gmail.com** or <br>+55 (65) 9 9261-5420</br>
+- 📫 How to reach me **kanael.dev@gmail.com** or <b>+55 (65) 9 9261-5420</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
